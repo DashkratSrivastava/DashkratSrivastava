@@ -14,7 +14,7 @@
 
 ### 📌 About Me
 
-> Computer Science & Engineering undergraduate with hands-on experience developing production-ready Machine Learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Madras) across Machine Learning, Deep Learning, and Analytics. Specialized in structuring data-driven software architectures, data drift detection, and database optimization.
+> Computer Science & Engineering undergraduate with hands-on experience developing production-ready Machine Learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Madras) across Machine Learning, Deep Learning, and IOT. Specialized in structuring data-driven software architectures, data drift detection, and database optimization.
 
 * 🎯 **Current Focus:** Advanced MLOps Architectures, System Design & Cloud Integration
 * 💼 **Hands-on Experience:** Built & optimized end-to-end ML classification and regression pipelines
