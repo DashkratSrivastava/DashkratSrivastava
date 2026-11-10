@@ -78,6 +78,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DashkratSrivastava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=DashkratSrivastava&layout=compact&theme=dark&hide=html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DashkratSrivastava&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=DashkratSrivastava&layout=compact&theme=dark&hide_border=true" width="48%" />
 </div>
