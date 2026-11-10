@@ -2,7 +2,7 @@
 
 # 👨‍💻 Dashkrat Srivastava
 **Computer Science & Engineering Undergrad | VIT Bhopal University**  
-*Machine Learning • MLOps Pipelines • Relational Database Systems • Full-Stack Development*
+*Machine Learning • MLOps Pipelines • Relational Database Systems • Data Science*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashkrat-srivastava-0b6328327)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavadashkrat@gmail.com)
@@ -14,12 +14,12 @@
 
 ### 📌 About Me
 
-> Computer Science & Engineering undergraduate with hands-on experience developing production-ready Machine Learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Guwahati) across Machine Learning, Deep Learning, and Analytics. Specialized in structuring data-driven software architectures, data drift detection, and database optimization.
+> Computer Science & Engineering undergraduate with hands-on experience developing production-ready Machine Learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Madras) across Machine Learning, Deep Learning, and Analytics. Specialized in structuring data-driven software architectures, data drift detection, and database optimization.
 
 * 🎯 **Current Focus:** Advanced MLOps Architectures, System Design & Cloud Integration
 * 💼 **Hands-on Experience:** Built & optimized end-to-end ML classification and regression pipelines
 * 🎓 **Core Strengths:** Relational Database Architecture (DBMS), Rule-Based Systems & OOP Design Patterns
-* 🚀 **Targeting:** Summer 2026 Internships in Machine Learning, Data Engineering, and Software Development
+* 🚀 **Targeting:** Internships in Machine Learning, Data Science, and Software Development
 
 ---
 
@@ -66,10 +66,11 @@
 ### 📜 Featured Credentials & Honors
 
 * 🏅 **NPTEL (IIT Kharagpur):** Marketing Analytics — *Elite + Gold Distinction*
+* 🏅 **NPTEL (IIT Madras):** Introduction to Internet of Things(IOT) — *Elite + Gold Distinction*
 * 🏅 **NPTEL (IIT Guwahati):** Machine Learning and Deep Learning — *Elite Distinction*
 * 🎓 **IBM:** SQL and Relational Databases 101 | Machine Learning with Python
 * 🎓 **Google:** Computer Networking (Bits and Bytes Framework)
-* 🎓 **HP LIFE:** AI Foundations & Machine Learning Concepts
+* 🎓 **tcsION:** Professional Soft Skills & Corporate Communication Suite
 
 ---
 
