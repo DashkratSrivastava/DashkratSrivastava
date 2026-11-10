@@ -5,6 +5,7 @@
 *Machine Learning • MLOps Pipelines • Relational Database Systems • Data Science*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashkrat-srivastava-0b6328327)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/legendary_april?mdxt=cHRtOWljZnRmODYw)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavadashkrat@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=DashkratSrivastava&color=0075ca&style=for-the-badge)
 
