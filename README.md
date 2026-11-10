@@ -1,46 +1,81 @@
-# 💫 Hi there 👋, I'm Dashkrat !
+<div align="center">
 
-Computer Science & Engineering undergraduate at VIT Bhopal University with hands-on experience building production-ready machine learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Guwahati) in Machine Learning, Deep Learning, and Analytics. Actively seeking Summer 2026 internships across ML Engineering, Data Analytics, and Software Development !
+# 👨‍💻 Dashkrat Srivastava
+**Computer Science & Engineering Undergrad | VIT Bhopal University**  
+*Machine Learning • MLOps Pipelines • Relational Database Systems • Full-Stack Development*
 
-Email Me 👉 ✉️ [srivastavadashkrat@gmail.com](mailto:srivastavadashkrat@gmail.com) For Collaboration/Project or Anything Else. 😊 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashkrat-srivastava-0b6328327)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavadashkrat@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=DashkratSrivastava&color=0075ca&style=for-the-badge)
 
-![Profile views](https://komarev.com/ghpvc/?username=DashkratSrivastava&color=green&style=flat)
-
-* 🌱 **I’m currently learning:** MLOps, Advanced Deep Learning & System Design.
-* 👯 **I’m looking to collaborate on:** Open-source ML pipelines, hackathons, and software engineering projects.
-* 🤔 **I’m looking for help with:** Structuring scalable production-grade ML architectures.
-* 📫 **How to reach me:** Email or LinkedIn DMs.
-* ⚡ **Fun fact:** I analyze data best when debugging with midnight silence.
+</div>
 
 ---
 
-## 🌐 Socials:
+### 📌 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashkrat-srivastava-0b6328327) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavadashkrat@gmail.com)
+> Computer Science & Engineering undergraduate with hands-on experience developing production-ready Machine Learning pipelines during a technical residency at InternSpark. NPTEL Elite-Gold certified (IIT Kharagpur & IIT Guwahati) across Machine Learning, Deep Learning, and Analytics. Specialized in structuring data-driven software architectures, data drift detection, and database optimization.
+
+* 🎯 **Current Focus:** Advanced MLOps Architectures, System Design & Cloud Integration
+* 💼 **Hands-on Experience:** Built & optimized end-to-end ML classification and regression pipelines
+* 🎓 **Core Strengths:** Relational Database Architecture (DBMS), Rule-Based Systems & OOP Design Patterns
+* 🚀 **Targeting:** Summer 2026 Internships in Machine Learning, Data Engineering, and Software Development
 
 ---
 
-## 💻 Tech Stack:
+### 🛠️ Technical Stack & Tooling
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Frameworks & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Databases & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Data & Environments</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ✍️ Random Dev Quote
+### 📜 Featured Credentials & Honors
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🏅 **NPTEL (IIT Kharagpur):** Marketing Analytics — *Elite + Gold Distinction*
+* 🏅 **NPTEL (IIT Guwahati):** Machine Learning and Deep Learning — *Elite Distinction*
+* 🎓 **IBM:** SQL and Relational Databases 101 | Machine Learning with Python
+* 🎓 **Google:** Computer Networking (Bits and Bytes Framework)
+* 🎓 **HP LIFE:** AI Foundations & Machine Learning Concepts
 
-<!--
-**DashkratSrivastava/DashkratSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DashkratSrivastava&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=DashkratSrivastava&layout=compact&theme=dark&hide=html,css"/>
+</div>
